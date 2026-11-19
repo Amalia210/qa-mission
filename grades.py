@@ -9,4 +9,3 @@ def result(score: int) -> str:
     if is_pass(score):
         return "Pass"
     return "Fail"
-    
